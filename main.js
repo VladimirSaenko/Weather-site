@@ -81,7 +81,7 @@ function takeBgCity(city) {
         body.style.backgroundImage = 'url(citys/zhytomyr.jpeg)';
     }
     else if(city == 'Ternopil') {
-        body.style.backgroundImage = 'url(citys/ternopil.jpeg)';
+        body.style.backgroundImage = 'url(citys/ternopil.jpg)';
     }
     else if(city == 'Vinnytsia') {
         body.style.backgroundImage = 'url(citys/vinnytsia.png)';
