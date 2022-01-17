@@ -28,7 +28,6 @@ searchBox.addEventListener('keypress', setQuery);
 function setQuery(e) {
     if(e.keyCode == 13) {
         getWeather(searchBox.value);
-        takeBgCity(searchBox.value);
     }
 }
 
